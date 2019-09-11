@@ -18,5 +18,22 @@
 
 Obs: all examples are in script_5.2.1
 
-### Thursday 09/06/10
+### Thursday 09/06/2019
+13. Ranges (script_5.3.1)
+14. respond_to? method (script_5.3.1)
+15. Error treatment (raising error messages) (script_5.3.1)
+16. Copy with .dup method (script_5.3.1)
+17. Refactoring class with gsub (ReGex) (script_5.3.1)
+18. Modifying classes that come with ruby (script_5.3.2)
 
+### Monday 09/09/2019
+19. Inheritance (script_5.4.1)
+20. Inheritance of ruby core class (script_5.4.2)
+
+### Tuesday 09/10/2019
+21. Initialize method (Constructor) (script_5.5.1)
+22. attr_reader, attr_writer, attr_accessor methods (script_5.5.1)
+22. .detect array method (script_5.5.1)
+23. self (script_5.5.2)
+24. .has_key? (script_5.5.2)
+25. << and || operators (script_5.5.2)
