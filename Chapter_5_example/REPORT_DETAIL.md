@@ -37,3 +37,7 @@ Obs: all examples are in script_5.2.1
 23. self (script_5.5.2)
 24. .has_key? (script_5.5.2)
 25. << and || operators (script_5.5.2)
+
+### Thursday 09/12/2019 (Final)
+26. Useful irb useful variables and commands (note_5.6.1)
+27. Modules (note_5.6.1)
