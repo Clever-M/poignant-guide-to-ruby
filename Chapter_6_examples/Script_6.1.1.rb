@@ -6,7 +6,7 @@ end # This script downloads a page from the internet, but I only get a 404.
     # The link is probably not online anymore.
 
 # Opening an idea file from a folder on your computer.
-open( "./test-file.txt" ) do |idea|
+open( 'test-file.txt' ) do |idea|
   puts idea.read
 end
 
