@@ -10,5 +10,8 @@ end
 
 # Prints the files out side-by-side.
 double_open( "file_in_english.txt", "file_in_korean.txt" ) do |f1, f2|
-      puts f1.readline + " | " + f2.readline
+  f1.each_line do |line|
+    puts "#{line.gsub("\n", '')} | #{f2.readline}"
+  end
+  #    puts f1.readline + " | " + f2.readline
 end
